@@ -1,0 +1,24 @@
+sudo -i
+bash <(curl -sL https://s.hijk.art/xray.sh)
+
+8 安装Xray-VLESS+TCP+XTLS(推荐)
+
+
+
+bash <(curl -sL https://cdn.jsdelivr.net/gh/Misaka-blog/Xray-script@master/xray.sh)
+
+
+Xray启动成功
+ Xray运行状态：已安装 Xray正在运行
+ Xray配置文件:  /usr/local/etc/xray/config.json
+ Xray配置信息：
+   协议:  VLESS
+ IP(address):  34.96.180.193
+ 端口(port)：443
+ id(uuid)：a87da96f-33cc-4bcf-b0c5-dfd3dd02240f
+ 流控(flow)：xtls-rprx-direct
+ 加密(encryption)： none
+ 传输协议(network)： tcp
+ 伪装类型(type)：none
+ 伪装域名/主机名(host)/SNI/peer名称：nbliangchen.com
+ 底层安全传输(tls)：XTLS

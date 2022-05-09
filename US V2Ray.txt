@@ -1,0 +1,30 @@
+US V2Ray
+
+地址 (Address) = 34.125.179.182
+ 端口 (Port) = 20078
+ 用户ID (User ID / UUID) = 931001cd-0de2-448f-8759-58e587ecd6ba
+ 额外ID (Alter Id) = 0
+ 传输协议 (Network) = tcp
+ 伪装类型 (header type) = none
+
+---------- END -------------
+V2Ray 客户端使用教程: https://233v2.com/post/4/
+提示: 输入  v2ray url  可生成 vmess URL 链接 / 输入  v2ray qr  可生成二维码链接
+免被墙..推荐使用JMS: https://getjms.com
+root@instance-2:~# 
+
+
+root@instance-2:~# v2ray url
+---------- V2Ray vmess URL / V2RayNG v0.4.1+ / V2RayN v2.1+ / 仅适合部分客户端 -------------
+vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV8zNC4xMjUuMTc5LjE4MiIsCiJhZGQiOiAiMzQuMTI1LjE3OS4xODIiLAoicG9ydCI6ICI
+yMDA3OCIsCiJpZCI6ICI5MzEwMDFjZC0wZGUyLTQ0OGYtODc1OS01OGU1ODdlY2Q2YmEiLAoiYWlkIjogIjAiLAoibmV0IjogInRjcCIsCiJ0eXBlIj
+ogIm5vbmUiLAoiaG9zdCI6ICIiLAoicGF0aCI6ICIiLAoidGxzIjogIiIKfQo=
+
+root@instance-2:~# v2ray qr
+---------- V2Ray 二维码链接 适用于 V2RayNG v0.4.1+ / Kitsunebi -------------
+https://233boy.github.io/tools/qr.html#vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV8zNC4xMjUuMTc5LjE4MiIsCiJhZGQi
+OiAiMzQuMTI1LjE3OS4xODIiLAoicG9ydCI6ICIyMDA3OCIsCiJpZCI6ICI5MzEwMDFjZC0wZGUyLTQ0OGYtODc1OS01OGU1ODdlY2Q2YmEiLAoiYWl
+kIjogIjAiLAoibmV0IjogInRjcCIsCiJ0eXBlIjogIm5vbmUiLAoiaG9zdCI6ICIiLAoicGF0aCI6ICIiLAoidGxzIjogIiIKfQo=
+
+
+原来HK IP 34.96.180.193
